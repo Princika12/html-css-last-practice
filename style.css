@@ -1,0 +1,145 @@
+/* .selector-for-some-widget {
+    box-sizing: content-box;
+  } */
+
+  *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family:'Poppins', sans-serif;
+  }
+
+  .selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+/* .carousel-item active img{
+      width: 10%;
+      height: 20vh;
+} */
+
+/* .carousel-item img{
+    width: 100%;
+    height: 10vh;
+
+} */
+
+/* .carousel-item img{
+    width: 100%;
+    height: 0.1px;
+} */
+    /* object-fit: cover;
+    size: 100px; */
+/* }*/
+
+ /* .d-block{
+    width: 10% !important;
+      height: 20vh !important;
+}  */
+
+/*.carousel-item img{
+    width: 100%;
+    height: 50vh;
+}*/
+/* .carousel-inner{
+    width: 100% !important;
+    height: 50% !important;
+    border: 2px solid red !important;
+}  */
+/* .d-block w-100{
+
+} */
+
+/* .display-4{
+    
+    font size: 70px;
+} */
+
+/* // X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up) */
+/* @media (min-width: 576px) { ... } */
+
+/* // Medium devices (tablets, 768px and up) */
+/* @media (min-width: 768px) { ... } */
+
+/* // Large devices (desktops, 992px and up) */
+/* @media (min-width: 992px) { ... } */
+
+/* // X-Large devices (large desktops, 1200px and up) */
+/* @media (min-width: 1200px) { ... } */
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+/* @media (min-width: 1400px) { ... } */
+
+/* .row img{
+    height: 80px;
+    width:0;
+} */
+
+.img-fluid{
+    width:  250px;
+    height: 50px;
+     /* border: 2px solid red; */
+     padding-left: 50px;
+     padding-right: 0px;
+}
+/* .col-md-6{
+width: 30%;
+/* border: 2px solid red; */
+/* align-content: right;
+} */ 
+
+/* .services .row>*{
+padding-right: 0;
+padding-left: 0;
+} */
+
+/* .col-md-4{
+width:700%;
+height:50px;
+} */
+
+/* .img-fluid{
+    width:700%;
+    height: 50px;0px;
+
+} */
+
+.Services img{
+    width: 700%;
+    height: 100%;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.text-center{
+    /* background-color: rgb(101, 78, 78); */
+    font-weight: bolder;
+}
+
+.main_heading{
+    background-color:rgb(255, 236, 236 ) ;
+    /* opacity: 1; */
+}
+
+.main_heading1{
+    background-color: rgb(93, 92, 92);
+}
+
+/* .row{
+    padding: 1px;
+} */
+
+/* .main_heading2 img{
+    padding: 1px;
+} */
+
+.main_heading4{
+    background-color: black;
+}
+
+/* .card :hover{
+   background-position: 20px;
+} */
